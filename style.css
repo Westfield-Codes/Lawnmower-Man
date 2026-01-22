@@ -1,4 +1,4 @@
-body {
+sbody {
   background-color:#008080;
 }
 .box{
@@ -43,7 +43,7 @@ body {
   text-align:center;
 }
 
-.body {
+.message-window {
   padding:0px 12px 12px;
   height:100%;
   width:100%;
@@ -64,11 +64,10 @@ body {
   margin-top:10px;
 }
 
-.body p {
+.message-window p {
   width:100%;
   margin-left:75px;
 }
-
 
 #buttons {
   float:right;
@@ -84,7 +83,7 @@ body {
   margin-right:20px;
 }
 
-.body button{
+.message-window button{
   font-size:13px;
   background:#C0C0C0;
   border-width:3px;
